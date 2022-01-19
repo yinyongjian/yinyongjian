@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yinyongjian
 - 👀 I’m interested in CustomerCenter
-- 🌱 I’m currently learning CallCenterSystem
+- 🌱 I’m currently learning CallCenterSystem、FreeSwitch
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
